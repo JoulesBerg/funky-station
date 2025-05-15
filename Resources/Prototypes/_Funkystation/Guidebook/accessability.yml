@@ -1,0 +1,5 @@
+- type: guideEntry
+  id: ContentWarning
+  name: gamerules-content-warning
+  priority: 100
+  text: "/ServerInfo/FunkyStation/Accessability/ContentWarning.xml"

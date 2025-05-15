@@ -1,0 +1,1 @@
+gamerules-content-warning = Content Warning
